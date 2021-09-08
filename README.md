@@ -1,7 +1,7 @@
 # Demo for https://mybinder.org/
 When adding the Notebook,  use the HTTPS clone address
 
-Example GitHub:   https://github.com/ArtCardenas/running_simulations_in_python.git
+Example GitHub repository URL:   https://github.com/ArtCardenas/running_simulations_in_python.git
 
 Branch: main
 
